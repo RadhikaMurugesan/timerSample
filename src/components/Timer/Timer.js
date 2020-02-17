@@ -61,8 +61,6 @@ export default class Timer extends Component {
       this.timerASeconds = 1000;
       this.timerBSeconds = 2000;
     } else {
-      console.log("else clibk");
-
       this.timerASeconds = 2000;
       this.timerBSeconds = 1000;
     }

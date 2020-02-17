@@ -1,6 +1,7 @@
 import React from 'react';
 import './App.css';
-import Timer from './components/Timer/Timer';
+import Timer from './components/NewTimer';
+
 function App() {
  
   return (
